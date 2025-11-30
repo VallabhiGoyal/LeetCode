@@ -4,8 +4,6 @@ class Solution {
         for(int i = 0; i<nums.length; i++){
             max_sum += nums[i];
         }
-        int remain = max_sum % k;
-
-        return remain;
+        return max_sum % k;
     }
 }
