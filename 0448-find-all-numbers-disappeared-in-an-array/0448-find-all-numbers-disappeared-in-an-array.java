@@ -13,9 +13,7 @@ class Solution {
         }
 
         for(int j = 0; j<n; j++){
-            if(nums[j] != j+1){
-                li.add(j+1);
-            }
+            if(nums[j] != j+1) li.add(j+1);
         }
 
         return li;
