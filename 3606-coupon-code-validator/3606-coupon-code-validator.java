@@ -7,7 +7,7 @@ class Solution {
         priority.put("pharmacy",2);
         priority.put("restaurant",3);
 
-        List<int[]> valid = new ArrayList<>();
+        List<Integer> valid = new ArrayList<>();
         List<String> result = new ArrayList<>();
 
         for(int i = 0; i<code.length; i++){
@@ -20,22 +20,22 @@ class Solution {
             if(c.isEmpty()) continue;
             if(!c.matches("[a-zA-Z0-9_]+")) continue;
 
-            valid.add(new int[]{i});
+            valid.add(i);
         }
 
-        valid.sort((a,b) -> {
-            int p1 = priority.get(businessLine[a[0]].trim());
-            int p2 = priority.get(businessLine[b[0]].trim());
+        valid.sort((i,j) -> {
+            int p1 = priority.get(businessLine[i].trim());
+            int p2 = priority.get(businessLine[j].trim());
 
             if(p1 != p2){
                 return p1-p2;
             }
 
-            return code[a[0]].compareTo(code[b[0]]);
+            return code[i].compareTo(code[j]);
         });
 
-        for (int[] idx : valid) {
-            result.add(code[idx[0]]);
+        for (int idx : valid) {
+            result.add(code[idx]);
         }
 
         return result;
