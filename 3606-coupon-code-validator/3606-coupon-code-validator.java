@@ -24,8 +24,8 @@ class Solution {
         }
 
         valid.sort((a,b) -> {
-            int p1 = priority.get(businessLine[a[0]]);
-            int p2 = priority.get(businessLine[b[0]]);
+            int p1 = priority.get(businessLine[a[0]].trim());
+            int p2 = priority.get(businessLine[b[0]].trim());
 
             if(p1 != p2){
                 return p1-p2;
