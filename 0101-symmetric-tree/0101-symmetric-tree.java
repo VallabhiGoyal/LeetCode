@@ -18,31 +18,22 @@ class Solution {
 
         if(root == null) return true;
         Queue<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
+        queue.offer(root.left);
+        queue.offer(root.right);
 
         while(!queue.isEmpty()){
-            int levelSize = queue.size();
-            List<Integer> currLevel = new ArrayList<>(levelSize);
+            TreeNode leftNode = queue.poll();
+            TreeNode rightNode = queue.poll();
 
-            for(int i = 0; i<levelSize; i++){
-                TreeNode node = queue.poll();
-                
-                if(node == null){
-                    currLevel.add(null);
-                }else{
-                    currLevel.add(node.val);
-                    queue.offer(node.left);
-                    queue.offer(node.right);             
-                }
-            }
-            System.out.println(currLevel);
-            int l = 0;
-            int r = currLevel.size() -1;
-            while(l<r){
-                if(!Objects.equals(currLevel.get(l), currLevel.get(r))) return false;
-                l++;
-                r--;
-            }
+            if(leftNode == null && rightNode == null) continue;
+            if(leftNode == null || rightNode == null) return false;
+            if(leftNode.val!=rightNode.val) return false;
+
+            queue.offer(leftNode.left);
+            queue.offer(rightNode.right);
+            queue.offer(leftNode.right);
+            queue.offer(rightNode.left);
+
         }
 
         return true;
