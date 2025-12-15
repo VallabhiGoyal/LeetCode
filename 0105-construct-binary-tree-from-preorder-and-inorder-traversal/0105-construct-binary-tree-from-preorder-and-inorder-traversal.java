@@ -14,36 +14,35 @@
  * }
  */
 class Solution {
+    static int index;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        int n = preorder.length;
+        index = 0;
+        HashMap<Integer, Integer> map = new HashMap<>();
 
+        int n = preorder.length;
         if(n == 0) return null;
 
-        int i = 0;
-        TreeNode root = new TreeNode(preorder[i]);
-
-        int j = 0;
-        for(j = 0; j<n; j++){
-            if(inorder[j] == root.val){
-                break;
-            }
+        for(int i = 0; i<n; i++){
+            map.put(inorder[i], i);
         }
 
-        root.left = buildTree(subArray(preorder, 1, j), subArray(inorder, 0, j-1));
+        return helper(preorder, inorder, 0, preorder.length -1, map);
+    }
 
-        root.right = buildTree(subArray(preorder, j+1, n-1), subArray(inorder, j+1, n-1));
+    private TreeNode helper(int[] preorder, int[] inorder, int left, int right, HashMap<Integer, Integer> map){
+        if(left> right){
+            return null;
+        }
+
+        int rootVal = preorder[index++];
+
+        int indexIn = map.get(rootVal);
+        TreeNode root = new TreeNode(rootVal);
+
+        root.left = helper(preorder, inorder, left, indexIn - 1, map);
+        root.right = helper(preorder, inorder,indexIn + 1 ,right, map);
         
         return root;
     }
 
-    public int[] subArray(int[] nums, int start, int end){
-        if(start>end) return new int[0];
-        int[] sub = new int[end-start+1];
-        int j = 0;
-        for(int i = start; i<=end; i++){
-            sub[j++] = nums[i];
-        }
-
-        return sub;
-    }
 }
