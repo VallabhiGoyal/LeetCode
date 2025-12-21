@@ -20,7 +20,7 @@ class Solution {
         arr[end] = temp;
     }
 
-    private int[] downHeap(int[] arr, int i, int heapSize){
+    private void downHeap(int[] arr, int i, int heapSize){
         int largest = i;
 
         while(true){
@@ -43,8 +43,5 @@ class Solution {
 
             i = largest;
         }
-
-        return arr;
-
     }
 }
