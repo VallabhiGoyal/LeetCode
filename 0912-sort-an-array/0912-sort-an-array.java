@@ -23,7 +23,7 @@ class Solution {
     private void downHeap(int[] arr, int i, int heapSize){
         int largest = i;
 
-        while(true){
+        while(i < heapSize/2){
             int left = 2*i + 1;
             int right = 2*i + 2;
 
