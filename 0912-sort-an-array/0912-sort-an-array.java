@@ -7,15 +7,18 @@ class Solution {
         }
 
         for (int end = n - 1; end > 0; end--) {
-            int temp = nums[0];
-            nums[0] = nums[end];
-            nums[end] = temp;     
+            swap(nums, 0, end);      
             downHeap(nums, 0, end); 
         }
 
         return nums;
     }
 
+    private void swap(int arr[], int start, int end){
+        int temp = arr[start];
+        arr[start] = arr[end];
+        arr[end] = temp;
+    }
 
     private void downHeap(int[] arr, int i, int heapSize){
         int largest = i;
