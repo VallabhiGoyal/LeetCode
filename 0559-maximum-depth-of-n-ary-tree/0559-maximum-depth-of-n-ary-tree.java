@@ -19,15 +19,11 @@ class Node {
 
 class Solution {
     public int maxDepth(Node root) {
-        return DFS(root);
-    }
-
-    public int DFS(Node root){
         if(root == null) return 0;
         int maxL = 0;
 
         for(Node child : root.children){
-            maxL = Math.max(maxL, DFS(child));
+            maxL = Math.max(maxL, maxDepth(child));
         }
         return maxL + 1;
     }
