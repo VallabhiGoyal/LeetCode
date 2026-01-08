@@ -22,10 +22,10 @@ class Solution {
         if(root==null) {
             return 0;
         }
-        int maxL=0;
+        int sum=0;
         for(Node i:root.children){
-            maxL=Math.max(maxL,maxDepth(i));
+            sum=Math.max(sum,maxDepth(i));
         }
-        return maxL+1;
+        return sum+1;
     }
 }
