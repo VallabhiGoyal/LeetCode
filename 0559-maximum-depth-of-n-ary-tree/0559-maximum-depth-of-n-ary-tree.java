@@ -22,8 +22,8 @@ class Solution {
         if(root == null) return 0;
         int maxL = 0;
         for(Node child : root.children){
-            maxL = Math.max(maxL, maxDepth(child));
+            maxL=Math.max(maxL,maxDepth(child));
         }
-        return maxL + 1;
+        return maxL+1;
     }
 }
