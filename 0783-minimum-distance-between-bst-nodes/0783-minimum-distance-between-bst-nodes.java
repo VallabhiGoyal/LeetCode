@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    Integer prev = null;
+    int prev = null;
     int minDiff = Integer.MAX_VALUE;
     public int minDiffInBST(TreeNode root) {
         inorder(root);
