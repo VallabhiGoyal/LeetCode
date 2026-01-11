@@ -1,6 +1,8 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
-        int maxRectangle = Integer.MIN_VALUE;
+        if (matrix == null || matrix.length == 0 || matrix[0].length == 0) return 0;
+
+        int maxRectangle = 0;
         int rows = matrix.length;
         int cols = matrix[0].length;
 
@@ -20,7 +22,7 @@ class Solution {
     private int getMaxArea(int[] heights, Stack<Integer> stack){
         stack.clear();
 
-        int maxArea = Integer.MIN_VALUE;
+        int maxArea = 0;
 
         for(int j = 0; j<heights.length; j++){
             
