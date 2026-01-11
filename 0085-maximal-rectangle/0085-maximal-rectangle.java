@@ -23,18 +23,14 @@ class Solution {
         int maxArea = Integer.MIN_VALUE;
 
         for(int j = 0; j<heights.length; j++){
-            if(stack.isEmpty() || heights[j]>heights[stack.peek()]){
-                stack.push(j);
-            }else{
-                int poppedIndex = 0;
-                while(!stack.isEmpty() && heights[j]<=heights[stack.peek()]){
-                    poppedIndex = stack.pop();
-                    int height = heights[poppedIndex];
-                    int width = stack.isEmpty()? j : j - stack.peek() - 1;
-                    maxArea = Math.max(maxArea, width*height);
-                }
-                stack.push(j);
+            
+            while(!stack.isEmpty() && heights[j]<=heights[stack.peek()]){
+                int poppedIndex = stack.pop();
+                int height = heights[poppedIndex];
+                int width = stack.isEmpty()? j : j - stack.peek() - 1;
+                maxArea = Math.max(maxArea, width*height);
             }
+            stack.push(j);
         }
 
         while(!stack.isEmpty()){
