@@ -1,5 +1,7 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
+        if(matrix == null || matrix.length == 0 || matrix[0].length == 0) return 0;
+
         int rows = matrix.length;
         int cols = matrix[0].length;
 
@@ -11,27 +13,19 @@ class Solution {
             for(int j = 0; j<cols; j++){
                 if(matrix[i][j] == '1'){
                     heights[j]++;
-                    if(stack.isEmpty() || heights[j]>heights[stack.peek()]){
+                }else heights[j] = 0;
+                
+                if(stack.isEmpty() || heights[j]>heights[stack.peek()]){
                         stack.push(j);
-                    }else{
-                        int poppedIndex = 0;
-                        while(!stack.isEmpty() && heights[j]<=heights[stack.peek()]){
-                            poppedIndex = stack.pop();
-                            int height = heights[poppedIndex];
-                            int width = stack.isEmpty()? j : j - stack.peek() - 1;
-                            maxArea = Math.max(maxArea, width*height);
-
-                        }
-                        stack.push(j);
-                    }
                 }else{
-                    heights[j] = 0;
-                    while(!stack.isEmpty()){
-                        int poppedIndex = stack.pop();
+                    int poppedIndex = 0;
+                    while(!stack.isEmpty() && heights[j]<=heights[stack.peek()]){
+                        poppedIndex = stack.pop();
                         int height = heights[poppedIndex];
                         int width = stack.isEmpty()? j : j - stack.peek() - 1;
                         maxArea = Math.max(maxArea, width*height);
                     }
+                    stack.push(j);
                 }
             }
             while(!stack.isEmpty()){
