@@ -2,10 +2,11 @@ class Solution {
     public long minimumCost(String source, String target, char[] original, char[] changed, int[] cost) {
         long[][] dist = new long[26][26];
 
+        long max = (long)1e15;
         for(int i = 0; i<26; i++){
             for(int j = 0; j<26; j++){
                 if(i!=j){
-                    dist[i][j] = (long)1e15;
+                    dist[i][j] = max;
                 }else{
                     dist[i][j] = 0;
                 }
@@ -26,7 +27,7 @@ class Solution {
         for(int k = 0; k<26; k++){   //intermediate
             for(int i = 0; i<26; i++){ //source
                 for(int j = 0; j<26; j++){ //dest
-                    if(dist[i][k] == (long)1e15 || dist[k][j] == (long)1e15) continue;
+                    if(dist[i][k] == max || dist[k][j] == max) continue;
                     dist[i][j] = Math.min(dist[i][j], dist[i][k] + dist[k][j]);
                 }
             }
@@ -40,7 +41,7 @@ class Solution {
             int org = source.charAt(i) - 'a';
             int chg = target.charAt(i) - 'a';
 
-            if(dist[org][chg] == (long)1e15) return -1;
+            if(dist[org][chg] == max) return -1;
             minCost += dist[org][chg];
         }
 
