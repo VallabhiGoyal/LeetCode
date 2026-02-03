@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
 
         int i = 0;
-        int j = 0;
+        int start = 0;
         while(i<n-1){
             if(nums[i]<nums[i+1]){
                 i++;
@@ -11,9 +11,9 @@ class Solution {
                 break;
             }
         }
-        if(i==j) return false;
+        if(i==start) return false;
 
-        j=i;
+        start=i;
         while(i<n-1){
             if(nums[i]>nums[i+1]){
                 i++;
@@ -21,9 +21,9 @@ class Solution {
                 break;
             }
         }
-        if(i==j) return false;
+        if(i==start) return false;
 
-        j=i;
+        start=i;
         while(i<n-1){
             if(nums[i]<nums[i+1]){
                 i++;
@@ -31,7 +31,7 @@ class Solution {
                 break;
             }
         }
-        if(i==j) return false;
+        if(i==start) return false;
 
         if(i == n-1) return true;
         else return false;
