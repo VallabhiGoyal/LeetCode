@@ -4,37 +4,17 @@ class Solution {
 
         int i = 0;
         int start = 0;
-        while(i<n-1){
-            if(nums[i]<nums[i+1]){
-                i++;
-            }else{
-                break;
-            }
-        }
+        while(i<n-1 && nums[i]<nums[i+1]) i++;
         if(i==start) return false;
 
         start=i;
-        while(i<n-1){
-            if(nums[i]>nums[i+1]){
-                i++;
-            }else{
-                break;
-            }
-        }
+        while(i<n-1 && nums[i]>nums[i+1]) i++;
         if(i==start) return false;
 
         start=i;
-        while(i<n-1){
-            if(nums[i]<nums[i+1]){
-                i++;
-            }else{
-                break;
-            }
-        }
+        while(i<n-1 && nums[i]<nums[i+1]) i++;
         if(i==start) return false;
 
-        if(i == n-1) return true;
-        else return false;
-
+        return i == n-1;
     }
 }
