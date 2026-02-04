@@ -18,7 +18,9 @@ class Solution {
         if(root == null) return true;
         
         int balance = Math.abs(height(root.left) - height(root.right));
-        if(balance<=1) return true;
+        if(balance<=1){
+            return isBalanced(root.left) && isBalanced(root.right);
+        }
         else return false;
         
     }
