@@ -29,10 +29,6 @@ class Solution {
 
         if(root1 != null && root2 != null){
             root1.val += root2.val;
-        }else if(root1 == null && root2 != null){
-            return root2;
-        }else{
-            return root1;
         }
 
         root1.left = helper(root1.left, root2.left);
