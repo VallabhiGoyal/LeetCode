@@ -29,11 +29,12 @@ class Solution {
             currPath += "->" + root.val;
         }
         
-        paths(root.left, currPath, list);
-        paths(root.right, currPath, list);
         if(root.left == null && root.right == null){
             list.add(currPath);
             return;
         }
+
+        paths(root.left, currPath, list);
+        paths(root.right, currPath, list);
     }
 }
