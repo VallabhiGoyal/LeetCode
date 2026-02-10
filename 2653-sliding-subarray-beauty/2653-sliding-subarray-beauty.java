@@ -1,20 +1,16 @@
 class Solution {
     public int[] getSubarrayBeauty(int[] nums, int k, int x) {
         int n = nums.length;
-        List<Integer> list = new ArrayList<>();
-        getSubarray(list, nums, k, x);
-        int[] arr = new int[list.size()];
-        for(int i = 0; i<list.size(); i++){
-            arr[i] = list.get(i);
-        }
-
+        int size = n-k+1;
+        int[] arr = new int[size];
+        getSubarray(arr, nums, k, x);
         return arr;
     }
 
-    private void getSubarray(List<Integer> list, int[] nums, int k, int x){
+    private void getSubarray(int[] arr, int[] nums, int k, int x){
         int[] freq = new int[51];
         int n = nums.length;
-
+        int p = 0;
         for(int i = 0; i<n; i++){
             if(nums[i] < 0){
                 freq[Math.abs(nums[i])]++;
@@ -34,10 +30,9 @@ class Solution {
                         break;
                     }
                 }
-                list.add(beauty);
+                arr[p++] = beauty;
             }
         }
-
         
     }
 }
