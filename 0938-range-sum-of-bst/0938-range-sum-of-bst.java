@@ -16,32 +16,15 @@
 class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {
         if(root == null) return 0;
-        List<Integer> list = new ArrayList<>();
-        inorder(root, list);
-        
         int sum = 0;
-        int lowIdx = -1;
-        for(int i = 0; i<list.size(); i++){
-            int curr = list.get(i);
-            if(curr>=low){
-                lowIdx = i;
-                break;
-            }
-        }
 
-        if(lowIdx == -1) return 0;
-        while(lowIdx<list.size() && list.get(lowIdx)<=high){
-            sum+=list.get(lowIdx);
-            lowIdx++;
+        if(root.val>=low && root.val <=high){
+            sum += root.val;
         }
+        sum += rangeSumBST(root.left, low, high);
+        sum += rangeSumBST(root.right, low, high);
+        
         return sum;
     }
 
-    public void inorder(TreeNode root, List<Integer> list){
-        if(root == null) return;
-
-        inorder(root.left, list);
-        list.add(root.val);
-        inorder(root.right, list);
-    }
 }
