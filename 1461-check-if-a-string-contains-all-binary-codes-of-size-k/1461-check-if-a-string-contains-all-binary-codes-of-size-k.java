@@ -1,9 +1,17 @@
 class Solution {
     public boolean hasAllCodes(String s, int k) {
-        Set<String> set = new HashSet<>();
+        if(s.length()<k) return false;
+        Set<Integer> set = new HashSet<>();
         int total = 1 << k;
-        for(int i = 0; i<s.length()-k+1; i++){
-            String curr = s.substring(i, i+k);
+
+        int curr = 0;
+        for(int i =0; i<k; i++){
+            curr = (curr << 1) | (s.charAt(i) - '0');
+        }
+        set.add(curr);
+
+        for(int i = 1; i<s.length()-k+1; i++){
+            curr = (curr<<1) | s.charAt(i+k-1);
             set.add(curr);
             if(set.size() == total) return true;
         }
