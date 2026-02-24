@@ -8,8 +8,8 @@ class Solution {
             ch.append(rem);
             temp /= 7;
         }
-        String answer = new StringBuilder(ch).reverse().toString();
-        if(num<0) return "-" + answer;
-        return answer;
+        
+        if(num<0) ch.append("-");
+        return ch.reverse().toString();
     }
 }
