@@ -16,25 +16,18 @@
 class Solution {
     public int sumRootToLeaf(TreeNode root) {
         if(root == null) return 0;
-        List<String> list = new ArrayList<>();
-        preOrder(root,"", list);
-        int sum = 0;
-        for(int i = 0; i<list.size(); i++){
-            int num = Integer.parseInt(list.get(i), 2);
-            sum+=num;
-        }
-
-        return sum;
+        return dfs(root, 0);
     }
 
-    private void preOrder(TreeNode root, String str, List<String> list){
-        if(root == null) return;
-        str += root.val;
+    private int dfs(TreeNode root, int curr){
+        if(root == null) return 0;
+        
+        curr = curr*2 + root.val;
+
         if(root.left == null && root.right == null){
-            list.add(str);
-            str = "";
+            return curr;
         }
-        preOrder(root.left, str, list);
-        preOrder(root.right, str, list);
+
+        return dfs(root.left, curr) + dfs(root.right, curr);
     }
 }
