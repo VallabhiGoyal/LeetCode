@@ -8,6 +8,7 @@ class Solution {
             
             for(int j = 0; j<b; j++){
                 int count = 1;
+                result[i][j] = img[i][j];
                 //left
                 if(j>0){
                     result[i][j] += img[i][j-1];
@@ -36,7 +37,7 @@ class Solution {
                     }
                 }
                 //down
-                if(i<b-1){
+                if(i<a-1){
                     result[i][j] += img[i+1][j];
                     count++;
                     if(j>0){
@@ -45,7 +46,7 @@ class Solution {
                     }
                 }
                 //average
-                result[i][j] = (result[i][j] + img[i][j])/count;
+                result[i][j] /= count;
             }
         }
 
