@@ -1,7 +1,6 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         int n = s.length();
-        if(n == 1) return true;
 
         Map<Character, Character> map1 = new HashMap<>();
         Map<Character, Character> map2 = new HashMap<>();
@@ -14,7 +13,7 @@ class Solution {
                 map1.put(ch1, ch2);
                 map2.put(ch2,ch1);
             }else if(map1.get(ch1) != null && map2.get(ch2) != null){
-                if(map1.get(ch1) != ch2 && map2.get(ch2) != ch1) return false;
+                if(map1.get(ch1) != ch2 || map2.get(ch2) != ch1) return false;
             }else return false;
         }
 
