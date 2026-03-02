@@ -21,3 +21,19 @@ My **structured and topic-wise DSA practice** is maintained in a separate reposi
 
 ## 🚀 Goal
 To improve problem-solving skills and prepare for coding interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VallabhiGoyal/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VallabhiGoyal/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VallabhiGoyal/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+<!---LeetCode Topics End-->
