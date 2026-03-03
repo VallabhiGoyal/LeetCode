@@ -19,7 +19,10 @@ class Solution {
         for(int i = 0; i<a; i++){
             if(row[i] == 1){
                 for(int j = 0; j<b; j++){
-                    if(col[j] == 1 && mat[i][j] == 1) count++;
+                    if(col[j] == 1 && mat[i][j] == 1){
+                        count++;
+                        break;
+                    }
                 }
             }
         }
