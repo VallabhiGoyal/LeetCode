@@ -62,6 +62,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1260-shift-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2022-convert-1d-array-into-2d-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VallabhiGoyal/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VallabhiGoyal/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
