@@ -71,6 +71,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1260-shift-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1260-shift-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +108,13 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 <!---LeetCode Topics End-->
