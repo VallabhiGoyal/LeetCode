@@ -6,7 +6,7 @@ class Solution {
         int[][] answer = mat;
         for(int k = 1; k<4; k++){
             answer = rotate90(answer);
-            if(isSame(rotate90(answer), target)) return true;
+            if(isSame(answer, target)) return true;
         }
 
         return false;
