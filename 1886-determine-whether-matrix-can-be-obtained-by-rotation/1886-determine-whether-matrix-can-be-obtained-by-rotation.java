@@ -2,26 +2,11 @@ class Solution {
     public boolean findRotation(int[][] mat, int[][] target) {
         int n = mat.length;
         
-        int count = 0;
-        for(int i = 0; i<n; i++){
-            for(int j = 0; j<n; j++){
-                if(mat[i][j] == target[i][j]) count++;
-                else break;
-            }
-        }
-        if(count == n*n) return true;
-
+        if(isSame(mat, target)) return true;
         int[][] answer = mat;
         for(int k = 1; k<4; k++){
             answer = rotate90(answer);
-            count = 0;
-            for(int i = 0; i<n; i++){
-                for(int j = 0; j<n; j++){
-                    if(answer[i][j] == target[i][j]) count++;
-                    else break;
-                }
-            }
-            if(count == n*n) return true;
+            if(isSame(rotate90(answer), target)) return true;
         }
 
         return false;
@@ -50,5 +35,15 @@ class Solution {
         }
 
         return result;
+    }
+
+    private boolean isSame(int[][] mat, int[][] target){
+        int n = mat.length;
+        for(int i = 0; i<n; i++){
+            for(int j = 0; j<n; j++){
+                if(mat[i][j] != target[i][j]) return false;
+            }
+        }
+        return true;
     }
 }
