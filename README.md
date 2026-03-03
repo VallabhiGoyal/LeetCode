@@ -64,6 +64,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/VallabhiGoyal/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,8 +78,17 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/VallabhiGoyal/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 <!---LeetCode Topics End-->
