@@ -53,6 +53,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
+| [3643-flip-square-submatrix-vertically](https://github.com/VallabhiGoyal/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3033-modify-the-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/3033-modify-the-matrix/) | Easy |
 | [3127-make-a-square-with-the-same-color](https://github.com/VallabhiGoyal/LeetCode/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
+| [3643-flip-square-submatrix-vertically](https://github.com/VallabhiGoyal/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3033-modify-the-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/3033-modify-the-matrix/) | Easy |
 | [3127-make-a-square-with-the-same-color](https://github.com/VallabhiGoyal/LeetCode/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
+| [3643-flip-square-submatrix-vertically](https://github.com/VallabhiGoyal/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
