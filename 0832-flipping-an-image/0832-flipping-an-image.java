@@ -4,20 +4,12 @@ class Solution {
         int b = image[0].length;
 
         for(int i = 0; i<a; i++){
-            for(int j = 0; j<b/2; j++){
+            for(int j = 0; j<=(b-1)/2; j++){
                 int temp = image[i][j];
-                image[i][j] = image[i][b-j-1];
-                image[i][b-j-1] = temp;
-
-                image[i][j] ^= 1;
-
-                image[i][b-j-1] ^= 1;
-            }
-            if(b%2==1){
-                image[i][b/2] ^= 1;
+                image[i][j] = image[i][b-j-1]^1;
+                image[i][b-j-1] = temp^1;
             }
         }
-
         return image;
     }
 }
