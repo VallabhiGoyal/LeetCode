@@ -2,13 +2,22 @@ class Solution {
     public boolean canMakeSquare(char[][] grid) {
         for(int i = 0; i<2; i++){
             for(int j = 0; j<2; j++){
-                if(grid[i][j] == grid[i+1][j]){
-                    if(grid[i][j] == grid[i][j+1] || grid[i][j] == grid[i+1][j+1]) return true;
-                    if(grid[i+1][j] == grid[i][j+1] || grid[i+1][j] == grid[i+1][j+1]) return true;
-                }else{
-                    if(grid[i][j] == grid[i][j+1] && grid[i][j] == grid[i+1][j+1]) return true;
-                    if(grid[i+1][j] == grid[i][j+1] && grid[i+1][j] == grid[i+1][j+1]) return true;
-                }
+                int black = 0;
+                int white = 0;
+
+                if(grid[i][j] == 'W') white++;
+                else black++;
+
+                if(grid[i+1][j] == 'W') white++;
+                else black++;
+
+                if(grid[i][j+1] == 'W') white++;
+                else black++;
+
+                if(grid[i+1][j+1] == 'W') white++;
+                else black++;
+
+                if(white >= 3 || black >= 3) return true;
             }
         }
 
