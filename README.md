@@ -78,6 +78,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VallabhiGoyal/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VallabhiGoyal/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VallabhiGoyal/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VallabhiGoyal/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
