@@ -9,15 +9,12 @@ class Solution {
                 image[i][j] = image[i][b-j-1];
                 image[i][b-j-1] = temp;
 
-                if(image[i][j] == 0) image[i][j] = 1;
-                else image[i][j] = 0;
+                image[i][j] ^= 1;
 
-                if(image[i][b-j-1] == 0) image[i][b-j-1] = 1;
-                else image[i][b-j-1] = 0;
+                image[i][b-j-1] ^= 1;
             }
             if(b%2==1){
-                if(image[i][b/2] == 1) image[i][b/2] = 0;
-                else image[i][b/2] = 1;
+                image[i][b/2] ^= 1;
             }
         }
 
