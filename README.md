@@ -87,6 +87,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3033-modify-the-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/3033-modify-the-matrix/) | Easy |
+| [3127-make-a-square-with-the-same-color](https://github.com/VallabhiGoyal/LeetCode/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3033-modify-the-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/3033-modify-the-matrix/) | Easy |
+| [3127-make-a-square-with-the-same-color](https://github.com/VallabhiGoyal/LeetCode/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +147,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3127-make-a-square-with-the-same-color](https://github.com/VallabhiGoyal/LeetCode/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
 <!---LeetCode Topics End-->
