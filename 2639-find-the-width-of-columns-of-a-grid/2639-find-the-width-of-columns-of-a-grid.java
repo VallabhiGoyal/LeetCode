@@ -6,8 +6,7 @@ class Solution {
         int[] ans = new int[b];
 
         for(int i = 0; i<b; i++){
-            String str = grid[0][i] + "";
-            int len = str.length(); 
+            int len = 0; 
             for(int j = 0; j<a; j++){
                 String str2 = grid[j][i] + "";
                 len = Math.max(len, str2.length());
