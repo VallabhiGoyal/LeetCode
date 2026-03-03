@@ -6,41 +6,20 @@ class Solution {
         for(int i = 0; i<n; i++){
             for(int j = 0; j<n; j++){
                 int height = grid[i][j];
-                if(height > 0){
-                    area += 2;
-                }
 
-                if(i>0){
-                    if(grid[i-1][j] < grid[i][j]){
-                        area += (height - grid[i-1][j]);
-                    }
-                }else{
-                    area += height;
-                }
+                if(height > 0) area += 2;
 
-                if(i<n-1){
-                    if(grid[i+1][j] < grid[i][j]){
-                        area += (height - grid[i+1][j]);
-                    }
-                }else{
-                    area += height;
-                }
-
-                if(j>0){
-                    if(grid[i][j-1] < grid[i][j]){
-                        area += (height - grid[i][j-1]);
-                    }
-                }else{
-                    area += height;
-                }
-
-                if(j<n-1){
-                    if(grid[i][j+1] < grid[i][j]){
-                        area += (height - grid[i][j+1]);
-                    }
-                }else{
-                    area += height;
-                }
+                if(i>0) area += Math.max(height - grid[i-1][j], 0);
+                else area += height;
+                
+                if(j>0) area += Math.max(height - grid[i][j-1], 0);
+                else area += height;
+                
+                if (i < n - 1) area += Math.max(height - grid[i + 1][j], 0);
+                else area += height;
+                
+                if (j < n - 1) area += Math.max(height - grid[i][j + 1], 0);
+                else area += height;
             }
         }
 
