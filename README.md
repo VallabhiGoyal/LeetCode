@@ -80,6 +80,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VallabhiGoyal/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VallabhiGoyal/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
