@@ -28,6 +28,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VallabhiGoyal/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1260-shift-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +87,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1260-shift-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
