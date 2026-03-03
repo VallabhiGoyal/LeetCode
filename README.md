@@ -30,6 +30,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0205-isomorphic-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VallabhiGoyal/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VallabhiGoyal/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VallabhiGoyal/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VallabhiGoyal/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VallabhiGoyal/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VallabhiGoyal/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
