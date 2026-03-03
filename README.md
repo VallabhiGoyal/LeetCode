@@ -57,4 +57,20 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0733-flood-fill](https://github.com/VallabhiGoyal/LeetCode/tree/main/0733-flood-fill/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0733-flood-fill](https://github.com/VallabhiGoyal/LeetCode/tree/main/0733-flood-fill/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0733-flood-fill](https://github.com/VallabhiGoyal/LeetCode/tree/main/0733-flood-fill/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0733-flood-fill](https://github.com/VallabhiGoyal/LeetCode/tree/main/0733-flood-fill/) | Easy |
 <!---LeetCode Topics End-->
