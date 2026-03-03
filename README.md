@@ -86,6 +86,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2923-find-champion-i](https://github.com/VallabhiGoyal/LeetCode/tree/main/2923-find-champion-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3033-modify-the-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/3033-modify-the-matrix/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2923-find-champion-i](https://github.com/VallabhiGoyal/LeetCode/tree/main/2923-find-champion-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3033-modify-the-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/3033-modify-the-matrix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
