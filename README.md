@@ -64,6 +64,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2373-largest-local-values-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2923-find-champion-i](https://github.com/VallabhiGoyal/LeetCode/tree/main/2923-find-champion-i/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2373-largest-local-values-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2923-find-champion-i](https://github.com/VallabhiGoyal/LeetCode/tree/main/2923-find-champion-i/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +120,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
