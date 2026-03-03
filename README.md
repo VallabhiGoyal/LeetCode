@@ -49,6 +49,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,11 +57,13 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/VallabhiGoyal/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +76,9 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/VallabhiGoyal/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
