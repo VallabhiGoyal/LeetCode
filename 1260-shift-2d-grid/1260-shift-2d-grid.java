@@ -12,13 +12,8 @@ class Solution {
         List<Integer> newList = new ArrayList<>();
         int size = list.size();
         k = k % size;
-        for(int i = size -  k; i < size; i++){
-            newList.add(list.get(i));
-        }
-
-        for(int i = 0; i<size-k; i++){
-            newList.add(list.get(i));
-        }
+        newList.addAll(list.subList(size-k, size));
+        newList.addAll(list.subList(0, size-k));
 
         int n = 0;
         List<List<Integer>> answer = new ArrayList<>();
