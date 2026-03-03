@@ -5,15 +5,12 @@ class Solution {
 
         int[] row = new int[a];
 
+        int maxIdx = 0;
+        int max = 0;
         for(int i = 0; i<a; i++){
             for(int j = 0; j<b; j++){
                 row[i] += grid[i][j];
             }
-        }
-
-        int maxIdx = 0;
-        int max = 0;
-        for(int i = 0; i<a; i++){
             if(max<row[i]){
                 max = row[i];
                 maxIdx = i;
