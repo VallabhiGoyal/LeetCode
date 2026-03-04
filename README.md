@@ -38,6 +38,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/VallabhiGoyal/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0796-rotate-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -144,6 +145,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/VallabhiGoyal/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/VallabhiGoyal/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
