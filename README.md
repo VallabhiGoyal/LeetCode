@@ -60,6 +60,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0326-power-of-three](https://github.com/VallabhiGoyal/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -147,6 +148,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/VallabhiGoyal/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/VallabhiGoyal/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0326-power-of-three](https://github.com/VallabhiGoyal/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
