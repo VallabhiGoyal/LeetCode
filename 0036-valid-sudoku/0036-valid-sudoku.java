@@ -9,8 +9,8 @@ class Solution {
             for(int j = 0; j<9; j++){
                 int curr1 = board[i][j] - '0';
                 int curr2 = board[j][i] - '0';
-                if(curr1>=1 && curr1 <=9) row[curr1]++;
-                if(curr2>=1 && curr2 <=9) col[curr2]++;
+                if(board[i][j] != '.') row[curr1]++;
+                if(board[j][i] != '.') col[curr2]++;
             }
 
             for(int k = 1; k<10; k++){
@@ -27,7 +27,7 @@ class Solution {
         for(int row = i; row<i+3; row++){
             for(int col = j; col<j+3; col++){
                 int curr = board[row][col] - '0';
-                if(curr>=1 && curr <=9) subBox[curr]++;
+                if(board[i][j] != '.') subBox[curr]++;
             }
         }
 
