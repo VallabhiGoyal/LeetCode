@@ -27,7 +27,7 @@ class Solution {
         for(int row = i; row<i+3; row++){
             for(int col = j; col<j+3; col++){
                 int curr = board[row][col] - '0';
-                if(board[i][j] != '.') subBox[curr]++;
+                if(board[row][col] != '.') subBox[curr]++;
             }
         }
 
