@@ -70,6 +70,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0733-flood-fill](https://github.com/VallabhiGoyal/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
@@ -149,9 +150,22 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3127-make-a-square-with-the-same-color](https://github.com/VallabhiGoyal/LeetCode/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
