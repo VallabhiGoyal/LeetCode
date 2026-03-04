@@ -5,9 +5,7 @@ class Solution {
 
         int num = 0;
         for(int i = 0; i<n; i++){
-            char ch = columnTitle.charAt(i);
-            int curr = (int)ch - 64;
-            num = num*26 + curr;
+            num = num*26 + (int)columnTitle.charAt(i) - 64;
         }
 
         return num;
