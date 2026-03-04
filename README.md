@@ -90,6 +90,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3033-modify-the-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/3033-modify-the-matrix/) | Easy |
 | [3127-make-a-square-with-the-same-color](https://github.com/VallabhiGoyal/LeetCode/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/VallabhiGoyal/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/VallabhiGoyal/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3033-modify-the-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/3033-modify-the-matrix/) | Easy |
 | [3127-make-a-square-with-the-same-color](https://github.com/VallabhiGoyal/LeetCode/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/VallabhiGoyal/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/VallabhiGoyal/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -168,4 +170,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/VallabhiGoyal/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 <!---LeetCode Topics End-->
