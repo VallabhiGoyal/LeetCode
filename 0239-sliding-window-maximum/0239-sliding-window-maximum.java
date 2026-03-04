@@ -32,7 +32,6 @@ class Solution {
             if(j>=k-1){
                 result[idx++] = nums[dq.peekFirst()];
             }
-            j++;
         }
 
         return result;
