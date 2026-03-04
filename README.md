@@ -32,6 +32,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VallabhiGoyal/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VallabhiGoyal/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3242-design-neighbor-sum-service](https://github.com/VallabhiGoyal/LeetCode/tree/main/3242-design-neighbor-sum-service/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3242-design-neighbor-sum-service](https://github.com/VallabhiGoyal/LeetCode/tree/main/3242-design-neighbor-sum-service/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3033-modify-the-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/3033-modify-the-matrix/) | Easy |
 | [3127-make-a-square-with-the-same-color](https://github.com/VallabhiGoyal/LeetCode/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
+| [3242-design-neighbor-sum-service](https://github.com/VallabhiGoyal/LeetCode/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/VallabhiGoyal/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/VallabhiGoyal/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Depth-First Search
@@ -122,6 +125,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3033-modify-the-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/3033-modify-the-matrix/) | Easy |
 | [3127-make-a-square-with-the-same-color](https://github.com/VallabhiGoyal/LeetCode/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
+| [3242-design-neighbor-sum-service](https://github.com/VallabhiGoyal/LeetCode/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/VallabhiGoyal/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/VallabhiGoyal/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Bit Manipulation
@@ -174,4 +178,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/VallabhiGoyal/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3242-design-neighbor-sum-service](https://github.com/VallabhiGoyal/LeetCode/tree/main/3242-design-neighbor-sum-service/) | Easy |
 <!---LeetCode Topics End-->
