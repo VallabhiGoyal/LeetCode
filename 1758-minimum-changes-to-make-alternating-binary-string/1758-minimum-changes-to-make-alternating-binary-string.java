@@ -9,19 +9,18 @@ class Solution {
         int odd1 = 0;
 
         //even 0 odd 1 ---> 01
-        for(int i = 0; i<s.length(); i = i + 2){
+        for(int i = 0; i<s.length(); i++){
             char ch = s.charAt(i);
-            if(ch == '0') even0++;
-            else odd1++;
+            if(i%2 == 0){
+                if(ch == '0') even0++;
+                else even1++;
+            }else{
+                if(ch == '0') odd0++;
+                else odd1++;
+            }
+
         }
 
-        //odd 0 even 1 ---> 10
-        for(int i = 1; i<s.length(); i = i+ 2){
-            char ch = s.charAt(i);
-            if(ch == '0') odd0++;
-            else even1++;
-        }
-
-        return n - Math.max(even0+even1, odd0 + odd1);
+        return n - Math.max(even0+odd1, odd0 + even1);
     }
 }
