@@ -3,19 +3,21 @@ class Solution {
         int a = str1.length();
         int b = str2.length();
 
-        for(int i = b; i>0; i--){
-            String ch = str2.substring(0,i);
-            if(a % i != 0) continue;
-            int j = 0;
-            int count = 0;
-            for(j = 0; j<a; j = j + i){
-                String ch1 = str1.substring(j,j+i);
-                if(!ch1.equals(ch)) break;
-                count++;
-            }
-            if(j==a && count == a/i) return ch;
+        if(!(str1+str2).equals(str2+str1)) return "";
+        int length = gcd(a, b);
+        return str1.substring(0,length); 
+    }
+
+    private int gcd(int a, int b){
+        if(a == 0 || b == 0) return 0;
+        if(a == b) return a;
+
+        int min = Math.min(a,b);
+        int n = 0;
+        for(int i = min; i>0; i--){
+            if(a%i == 0 && b%i == 0) return i;
         }
 
-        return new String("");
+        return 1;
     }
 }
