@@ -12,8 +12,8 @@ class Solution {
             str.append(word2.charAt(j++));
         }
 
-        if(i!=a) str.append(word1.substring(i));
-        else if(j!=b) str.append(word2.substring(j));
+        if(i!=a) str.append(word1, i, a);
+        else if(j!=b) str.append(word2, j, b);
 
         return str.toString();
     }
