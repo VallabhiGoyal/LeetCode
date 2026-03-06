@@ -37,7 +37,10 @@ class Solution {
                     right = j;
                     minLen = j-i+1;
                 }
-                tmap.put(s.charAt(i), tmap.get(s.charAt(i)) + 1);
+                char start = s.charAt(i);
+                if(tmap.containsKey(start)){
+                    tmap.put(start, tmap.get(start) + 1);
+                }
                 count++;
                 i++;
             }
