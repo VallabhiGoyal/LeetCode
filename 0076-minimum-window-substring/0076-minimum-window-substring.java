@@ -29,7 +29,6 @@ class Solution {
                     char ch2 = s.charAt(i);
                     if(tmap.containsKey(ch2)){
                         tmap.put(ch2, tmap.get(ch2) + 1);
-                        if(tmap.get(ch2) > 0) break;
                     }
                     i++;
                 }
