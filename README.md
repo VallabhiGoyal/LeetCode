@@ -45,6 +45,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0171-excel-sheet-column-number](https://github.com/VallabhiGoyal/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0389-find-the-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0443-string-compression](https://github.com/VallabhiGoyal/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0796-rotate-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -64,6 +65,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/VallabhiGoyal/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0443-string-compression](https://github.com/VallabhiGoyal/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VallabhiGoyal/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/VallabhiGoyal/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
