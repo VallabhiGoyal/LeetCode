@@ -8,8 +8,8 @@ class Solution {
 
         for(int i = 1; i<n; i++){
             if(first>=nums[i]) first = nums[i];
-            else if(first<nums[i] && second>=nums[i]) second = nums[i];
-            else if(nums[i] > second) return true;
+            else if(second>=nums[i]) second = nums[i];
+            else return true;
         }
         return false;
     }
