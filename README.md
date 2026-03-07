@@ -64,6 +64,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0283-move-zeroes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VallabhiGoyal/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0443-string-compression](https://github.com/VallabhiGoyal/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
@@ -95,6 +96,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0215-kth-largest-element-in-an-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/VallabhiGoyal/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0283-move-zeroes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/VallabhiGoyal/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0605-can-place-flowers](https://github.com/VallabhiGoyal/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
