@@ -8,7 +8,6 @@ class Solution {
         
         char[] arr = s.toCharArray();
         Arrays.sort(arr);
-        String t = new String(arr);
         
         //already sorted -> 0
         int i = 0;
@@ -17,6 +16,7 @@ class Solution {
 
         //possible answer is 1
         if(s.charAt(0) == arr[0] || s.charAt(n-1) == arr[n-1]) return 1;
+
         //possible answer is 3 
         if(s.charAt(0) == arr[n-1] && s.charAt(n-1) == arr[0]){
             for(int j = 0; j<n-1; j++){
