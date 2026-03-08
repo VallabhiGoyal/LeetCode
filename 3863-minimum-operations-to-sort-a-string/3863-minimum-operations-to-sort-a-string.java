@@ -19,12 +19,7 @@ class Solution {
 
         //possible answer is 3 
         if(s.charAt(0) == arr[n-1] && s.charAt(n-1) == arr[0]){
-            for(int j = 0; j<n-1; j++){
-                if(s.charAt(j) == arr[0]) return 2;
-            }
-            for(int j = 1; j<n; j++){
-                if(s.charAt(j) == arr[n-1]) return 2;
-            }
+            if(arr[0] == arr[1] || arr[n-1] == arr[n-2]) return 2;
             return 3;
         } 
         return 2;
