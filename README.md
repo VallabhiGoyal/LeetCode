@@ -32,6 +32,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0205-isomorphic-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VallabhiGoyal/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/VallabhiGoyal/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VallabhiGoyal/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -47,6 +48,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0171-excel-sheet-column-number](https://github.com/VallabhiGoyal/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0389-find-the-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/VallabhiGoyal/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/VallabhiGoyal/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0796-rotate-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -215,6 +217,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/VallabhiGoyal/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
