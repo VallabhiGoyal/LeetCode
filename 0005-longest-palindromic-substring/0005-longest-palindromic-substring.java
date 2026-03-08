@@ -6,29 +6,29 @@ class Solution {
         int maxLen = 0;
         String ans = new String();
         for(int i = 0; i<n; i++){
-            int left = i - 1;
-            int right = i + 1;
+
             //odd length
+            int left = i;
+            int right = i;
             while(left>=0 && right<n && s.charAt(left) == s.charAt(right)){
                 left--;
                 right++;
             }
-            int len = right - left + 1;
+            int len = right - left - 1;
             if(len > maxLen){
                 maxLen = len;
                 ans = s.substring(left+1, right);
             }
 
             //even length
-            if(i+1<n && s.charAt(i) == s.charAt(i+1)){
-                left = i-1;
-                right = i + 2;
-                while(left>=0 && right<n && s.charAt(left) == s.charAt(right)){
-                    left--;
-                    right++;
-                }
+            left = i;
+            right = i + 1;
+            while(left>=0 && right<n && s.charAt(left) == s.charAt(right)){
+                left--;
+                right++;
             }
-            len = right - left + 1;
+            
+            len = right - left - 1;
             if(len > maxLen){
                 maxLen = len;
                 ans = s.substring(left+1, right);
