@@ -43,6 +43,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/VallabhiGoyal/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0076-minimum-window-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/VallabhiGoyal/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
