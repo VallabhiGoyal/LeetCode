@@ -4,15 +4,12 @@ class Solution {
 
         int[] t = new int[n];
 
-        int cost1 = cost[0];
-        int cost2 = cost[1];
-
+        t[0] = cost[0];
+        t[1] = cost[1];
         for(int i = 2; i<n; i++){
-            int curr = cost[i] + Math.min(cost1, cost2);
-            cost1 = cost2;
-            cost2 = curr;
+            t[i] = cost[i] + Math.min(t[i-1], t[i-2]);
         }
 
-        return Math.min(cost1, cost2);
+        return Math.min(t[n-1], t[n-2]);
     }
 }
