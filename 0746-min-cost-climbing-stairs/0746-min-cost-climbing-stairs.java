@@ -4,8 +4,6 @@ class Solution {
 
         int[] t = new int[n];
 
-        int totalCost = 0;
-
         t[0] = cost[0];
         t[1] = cost[1];
         for(int i = 2; i<n; i++){
