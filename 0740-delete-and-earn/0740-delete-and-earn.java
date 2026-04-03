@@ -2,7 +2,6 @@ class Solution {
     public int deleteAndEarn(int[] nums) {
         int n = nums.length;
         Map<Integer, Integer> map = new HashMap<>();
-        Set<Integer> set = new HashSet<>();
 
         int max = nums[0];
         for(int i = 0; i<n; i++){
