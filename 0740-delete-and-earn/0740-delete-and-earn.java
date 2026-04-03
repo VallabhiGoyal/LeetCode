@@ -17,15 +17,15 @@ class Solution {
             points[key] = map.get(key);
         }
 
-        int[] t = new int[m+1];
-
-        t[0] = points[0];
-        t[1] = Math.max(points[0], points[1]);
+        int t1 = points[0];
+        int t2 = Math.max(points[0], points[1]);
 
         for(int i = 2; i<m+1; i++){
-            t[i] = Math.max(points[i] + t[i-2], t[i-1]);
+            int curr = Math.max(points[i] + t1, t2);
+            t1 = t2;
+            t2 = curr;
         }
 
-        return t[m];
+        return t2;
     }
 }
