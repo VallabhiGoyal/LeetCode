@@ -29,6 +29,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/VallabhiGoyal/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0076-minimum-window-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0139-word-break](https://github.com/VallabhiGoyal/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VallabhiGoyal/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/0389-find-the-difference/) | Easy |
@@ -46,6 +47,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0005-longest-palindromic-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/VallabhiGoyal/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0076-minimum-window-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0139-word-break](https://github.com/VallabhiGoyal/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/VallabhiGoyal/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -105,6 +107,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0118-pascals-triangle](https://github.com/VallabhiGoyal/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/VallabhiGoyal/LeetCode/tree/main/0120-triangle/) | Medium |
+| [0139-word-break](https://github.com/VallabhiGoyal/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/VallabhiGoyal/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -261,6 +264,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0118-pascals-triangle](https://github.com/VallabhiGoyal/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/VallabhiGoyal/LeetCode/tree/main/0120-triangle/) | Medium |
+| [0139-word-break](https://github.com/VallabhiGoyal/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/VallabhiGoyal/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/VallabhiGoyal/LeetCode/tree/main/0221-maximal-square/) | Medium |
@@ -273,6 +277,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/VallabhiGoyal/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/VallabhiGoyal/LeetCode/tree/main/0139-word-break/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,4 +307,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/VallabhiGoyal/LeetCode/tree/main/0062-unique-paths/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/VallabhiGoyal/LeetCode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
