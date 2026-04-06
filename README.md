@@ -112,6 +112,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0120-triangle](https://github.com/VallabhiGoyal/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0139-word-break](https://github.com/VallabhiGoyal/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/VallabhiGoyal/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0221-maximal-square](https://github.com/VallabhiGoyal/LeetCode/tree/main/0221-maximal-square/) | Medium |
@@ -222,6 +223,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/VallabhiGoyal/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -243,6 +245,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/VallabhiGoyal/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Monotonic Queue
@@ -301,6 +304,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/VallabhiGoyal/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
