@@ -11,6 +11,7 @@ class Solution {
         for(int i = m-1; i>=0; i--){
             if(j>=0 && g[i] <= s[j]){
                 ans++;
+                if(j<=0) return ans;
                 j--;
             }
         }
