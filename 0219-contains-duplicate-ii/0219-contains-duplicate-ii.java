@@ -4,18 +4,15 @@ class Solution {
 
         Set<Integer> set = new HashSet<>();
 
-        for(int i = 0; i < Math.min(k + 1, n); i++){
-            if(set.contains(nums[i])) return true;
-            set.add(nums[i]);
-        }
-        
-        int j = 0;
-        for(int i = k + 1; i < n; i++){
-            set.remove(nums[j++]);
-            if(set.contains(nums[i])) return true;
-            set.add(nums[i]);
-        }
+        for (int i = 0; i < n; i++) {
+            if (set.contains(nums[i])) return true;
 
+            set.add(nums[i]);
+
+            if (set.size() > k) {
+            set.remove(nums[i - k]);
+            }
+        }
         return false;
     }
 }
