@@ -7,7 +7,7 @@ class Solution {
         for(int i = 0; i<n; i++){
             int diff = arr[i] - difference;
             if(map.containsKey(diff)){
-                map.put(arr[i], Math.max(map.getOrDefault(arr[i], 1), map.get(diff)+1));
+                map.put(arr[i], map.get(diff) + 1);
             }else{
                 map.put(arr[i], 1);
             }
