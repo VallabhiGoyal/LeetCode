@@ -127,6 +127,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0349-intersection-of-two-arrays](https://github.com/VallabhiGoyal/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/VallabhiGoyal/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0733-flood-fill](https://github.com/VallabhiGoyal/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0740-delete-and-earn](https://github.com/VallabhiGoyal/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
@@ -225,6 +226,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0349-intersection-of-two-arrays](https://github.com/VallabhiGoyal/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/VallabhiGoyal/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -268,6 +270,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0334-increasing-triplet-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/VallabhiGoyal/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/VallabhiGoyal/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/VallabhiGoyal/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 ## Design
@@ -294,6 +297,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0300-longest-increasing-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0337-house-robber-iii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0740-delete-and-earn](https://github.com/VallabhiGoyal/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
