@@ -61,6 +61,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0516-longest-palindromic-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0796-rotate-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VallabhiGoyal/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -311,6 +312,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0740-delete-and-earn](https://github.com/VallabhiGoyal/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/VallabhiGoyal/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
