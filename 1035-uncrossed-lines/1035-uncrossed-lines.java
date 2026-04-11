@@ -3,18 +3,26 @@ class Solution {
         int m = nums1.length;
         int n = nums2.length;
 
-        int[][] t = new int[m+1][n+1];
+        if(m < n) return maxUncrossedLines(nums2, nums1);
+
+        int[] t = new int[n+1];
 
         for(int i = 1; i<m+1; i++){
+            int prev = 0;
             for(int j = 1; j<n+1; j++){
+
+                int curr = t[j];
+
                 if(nums1[i-1] == nums2[j-1]){
-                    t[i][j] = t[i-1][j-1] + 1;
+                    t[j] = prev + 1;
                 }else{
-                    t[i][j] = Math.max(t[i-1][j], t[i][j-1]);
+                    t[j] = Math.max(t[j-1], curr);
                 }
+
+                prev = curr;
             }
         }
 
-        return t[m][n];
+        return t[n];
     }
 }
