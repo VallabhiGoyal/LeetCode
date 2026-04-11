@@ -20,9 +20,9 @@ class Solution {
             if(map.get(key).size() >= 3){
                 List<Integer> list = map.get(key);
                 int size = list.size();
-                int curr = list.get(2) - list.get(0);
 
-                for(int i = 1; i<size-2; i++){
+                int curr = Integer.MAX_VALUE;
+                for(int i = 0; i<size-2; i++){
                     int temp = list.get(i+2) - list.get(i);
                     curr = Math.min(temp ,curr);
                 }
