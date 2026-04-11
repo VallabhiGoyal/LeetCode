@@ -62,6 +62,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0796-rotate-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VallabhiGoyal/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VallabhiGoyal/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -316,6 +317,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1035-uncrossed-lines](https://github.com/VallabhiGoyal/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VallabhiGoyal/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
