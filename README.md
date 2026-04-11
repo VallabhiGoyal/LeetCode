@@ -43,6 +43,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VallabhiGoyal/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3242-design-neighbor-sum-service](https://github.com/VallabhiGoyal/LeetCode/tree/main/3242-design-neighbor-sum-service/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +164,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3242-design-neighbor-sum-service](https://github.com/VallabhiGoyal/LeetCode/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/VallabhiGoyal/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/VallabhiGoyal/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
