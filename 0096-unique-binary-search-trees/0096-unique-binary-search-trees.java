@@ -5,8 +5,7 @@ class Solution {
         long[] ans = new long[n+1];
         ans[0] = 1;
         ans[1] = 1;
-        ans[2] = 2;
-        for(int i = 3; i<n+1; i++){
+        for(int i = 2; i<n+1; i++){
             for(int j = i; j>0; j--){
                 ans[i] += ans[j-1]*ans[i-j];
             }
