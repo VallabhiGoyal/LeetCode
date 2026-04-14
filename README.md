@@ -222,6 +222,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/VallabhiGoyal/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/VallabhiGoyal/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/VallabhiGoyal/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/VallabhiGoyal/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0326-power-of-three](https://github.com/VallabhiGoyal/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/VallabhiGoyal/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
@@ -305,6 +306,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0064-minimum-path-sum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/VallabhiGoyal/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/VallabhiGoyal/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/VallabhiGoyal/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/VallabhiGoyal/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/VallabhiGoyal/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -358,10 +360,12 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/VallabhiGoyal/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0337-house-robber-iii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/VallabhiGoyal/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0337-house-robber-iii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -380,4 +384,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/VallabhiGoyal/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
