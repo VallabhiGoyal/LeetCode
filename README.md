@@ -59,6 +59,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0389-find-the-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/VallabhiGoyal/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/VallabhiGoyal/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0796-rotate-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0796-rotate-string/) | Easy |
@@ -136,6 +137,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0354-russian-doll-envelopes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0377-combination-sum-iv](https://github.com/VallabhiGoyal/LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0605-can-place-flowers](https://github.com/VallabhiGoyal/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -327,6 +329,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0337-house-robber-iii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0377-combination-sum-iv](https://github.com/VallabhiGoyal/LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
