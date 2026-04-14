@@ -136,6 +136,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0605-can-place-flowers](https://github.com/VallabhiGoyal/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VallabhiGoyal/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/VallabhiGoyal/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0740-delete-and-earn](https://github.com/VallabhiGoyal/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/VallabhiGoyal/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -286,6 +287,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/VallabhiGoyal/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VallabhiGoyal/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/VallabhiGoyal/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/VallabhiGoyal/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 ## Design
@@ -317,6 +319,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VallabhiGoyal/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/VallabhiGoyal/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/VallabhiGoyal/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
