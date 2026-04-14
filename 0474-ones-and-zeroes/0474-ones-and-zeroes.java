@@ -14,8 +14,8 @@ class Solution {
                 if(s.charAt(j) == '0') zero++;
                 else one++;
             }
-            for(int j = m; j>=0; j--){
-                for(int k = n; k>=0; k--){
+            for(int j = m; j>=zero; j--){
+                for(int k = n; k>=one; k--){
                     if(zero <= j && one <= k){
                         dp[j][k] = Math.max(dp[j][k], 1 + dp[j - zero][k - one]);
                     }
