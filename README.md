@@ -347,6 +347,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VallabhiGoyal/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/VallabhiGoyal/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2140-solving-questions-with-brainpower](https://github.com/VallabhiGoyal/LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
+| [2466-count-ways-to-build-good-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
