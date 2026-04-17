@@ -18,7 +18,7 @@ class Solution {
                 dp[i] %= MOD;
             }
 
-            if(i>=low && i<=high){
+            if(i>=low){
                 total += dp[i];
                 total %= MOD;
             }
