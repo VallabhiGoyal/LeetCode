@@ -51,6 +51,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0006-zigzag-conversion](https://github.com/VallabhiGoyal/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0072-edit-distance](https://github.com/VallabhiGoyal/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0091-decode-ways](https://github.com/VallabhiGoyal/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/VallabhiGoyal/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/VallabhiGoyal/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -313,6 +314,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0064-minimum-path-sum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/VallabhiGoyal/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/VallabhiGoyal/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/VallabhiGoyal/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/VallabhiGoyal/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/VallabhiGoyal/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
