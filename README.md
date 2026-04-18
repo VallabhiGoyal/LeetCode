@@ -150,6 +150,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/VallabhiGoyal/LeetCode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1035-uncrossed-lines](https://github.com/VallabhiGoyal/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
@@ -346,6 +347,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0740-delete-and-earn](https://github.com/VallabhiGoyal/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/VallabhiGoyal/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/VallabhiGoyal/LeetCode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1035-uncrossed-lines](https://github.com/VallabhiGoyal/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
