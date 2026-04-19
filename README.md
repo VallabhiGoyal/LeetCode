@@ -50,6 +50,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0005-longest-palindromic-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/VallabhiGoyal/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0022-generate-parentheses](https://github.com/VallabhiGoyal/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0043-multiply-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0072-edit-distance](https://github.com/VallabhiGoyal/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/VallabhiGoyal/LeetCode/tree/main/0091-decode-ways/) | Medium |
@@ -103,6 +104,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -233,6 +235,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0062-unique-paths](https://github.com/VallabhiGoyal/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/VallabhiGoyal/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/VallabhiGoyal/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
