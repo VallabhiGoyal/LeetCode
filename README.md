@@ -92,6 +92,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VallabhiGoyal/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/VallabhiGoyal/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -160,6 +161,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/VallabhiGoyal/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/VallabhiGoyal/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VallabhiGoyal/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VallabhiGoyal/LeetCode/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -267,6 +269,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0354-russian-doll-envelopes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0367-valid-perfect-square](https://github.com/VallabhiGoyal/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VallabhiGoyal/LeetCode/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
