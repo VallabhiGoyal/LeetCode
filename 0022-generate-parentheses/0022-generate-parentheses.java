@@ -20,7 +20,7 @@ class Solution {
             s.deleteCharAt(s.length()-1);
         }
 
-        if(close < open &&  close < n){
+        if(close < open){
             s.append(")");
             generate(n, open, close+1, s, list);
             s.deleteCharAt(s.length()-1);
