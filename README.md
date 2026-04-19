@@ -244,6 +244,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0326-power-of-three](https://github.com/VallabhiGoyal/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/VallabhiGoyal/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
+| [1025-divisor-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -357,6 +358,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0790-domino-and-tromino-tiling](https://github.com/VallabhiGoyal/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/VallabhiGoyal/LeetCode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [1025-divisor-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1035-uncrossed-lines](https://github.com/VallabhiGoyal/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
@@ -425,4 +427,12 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/VallabhiGoyal/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
