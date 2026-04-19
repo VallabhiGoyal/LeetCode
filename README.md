@@ -70,6 +70,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VallabhiGoyal/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/VallabhiGoyal/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1668-maximum-repeating-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VallabhiGoyal/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VallabhiGoyal/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -83,6 +84,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,6 +366,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VallabhiGoyal/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/VallabhiGoyal/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1668-maximum-repeating-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/VallabhiGoyal/LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
 ## Memoization
