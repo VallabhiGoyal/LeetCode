@@ -76,6 +76,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VallabhiGoyal/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VallabhiGoyal/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VallabhiGoyal/LeetCode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +177,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2319-check-if-matrix-is-x-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VallabhiGoyal/LeetCode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2923-find-champion-i](https://github.com/VallabhiGoyal/LeetCode/tree/main/2923-find-champion-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -313,6 +315,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VallabhiGoyal/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/VallabhiGoyal/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VallabhiGoyal/LeetCode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/VallabhiGoyal/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -369,6 +372,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1668-maximum-repeating-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/VallabhiGoyal/LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VallabhiGoyal/LeetCode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
