@@ -6,7 +6,8 @@ class Solution {
 
         for(int i = 0; i<n-1; i++){
             if(colors[i] != colors[n-1]){
-                max = Math.max(max, n-i-1);
+                max = n-i-1;
+                break;
             }
         }
 
