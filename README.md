@@ -175,6 +175,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VallabhiGoyal/LeetCode/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/VallabhiGoyal/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VallabhiGoyal/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/VallabhiGoyal/LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
@@ -321,6 +322,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VallabhiGoyal/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0860-lemonade-change](https://github.com/VallabhiGoyal/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/VallabhiGoyal/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/VallabhiGoyal/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VallabhiGoyal/LeetCode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/VallabhiGoyal/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 ## Design
