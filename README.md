@@ -120,6 +120,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/VallabhiGoyal/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0045-jump-game-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -311,6 +312,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
@@ -330,6 +332,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VallabhiGoyal/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/VallabhiGoyal/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0045-jump-game-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/VallabhiGoyal/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
