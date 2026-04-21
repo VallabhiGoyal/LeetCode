@@ -147,6 +147,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0349-intersection-of-two-arrays](https://github.com/VallabhiGoyal/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0354-russian-doll-envelopes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0377-combination-sum-iv](https://github.com/VallabhiGoyal/LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/VallabhiGoyal/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0605-can-place-flowers](https://github.com/VallabhiGoyal/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
@@ -268,6 +269,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0349-intersection-of-two-arrays](https://github.com/VallabhiGoyal/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0354-russian-doll-envelopes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0389-find-the-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/VallabhiGoyal/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
@@ -316,6 +318,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0045-jump-game-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/VallabhiGoyal/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/VallabhiGoyal/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -362,6 +365,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0337-house-robber-iii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0377-combination-sum-iv](https://github.com/VallabhiGoyal/LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/VallabhiGoyal/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
