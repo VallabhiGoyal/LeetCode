@@ -131,6 +131,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0119-pascals-triangle-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/VallabhiGoyal/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0135-candy](https://github.com/VallabhiGoyal/LeetCode/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/VallabhiGoyal/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VallabhiGoyal/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/VallabhiGoyal/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -319,6 +320,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/VallabhiGoyal/LeetCode/tree/main/0135-candy/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/VallabhiGoyal/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
