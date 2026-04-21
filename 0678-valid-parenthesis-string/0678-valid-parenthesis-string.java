@@ -12,13 +12,9 @@ class Solution {
                 max++;
             }
             else if(ch == ')'){
-                if(min > 0){
-                    min--;
-                    max--;
-                }else{
-                    if(max>0) max--;
-                    else return false;
-                }
+                if(min > 0) min--;
+                max--;
+                if(max < 0) return false;
             }else{
                 if(min > 0) min--;
                 max++;
