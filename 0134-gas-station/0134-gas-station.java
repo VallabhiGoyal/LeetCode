@@ -24,7 +24,6 @@ class Solution {
             }
         }
 
-        if(j == n) return -1;
         return j;
     } 
 }
