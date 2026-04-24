@@ -35,6 +35,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0349-intersection-of-two-arrays](https://github.com/VallabhiGoyal/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/VallabhiGoyal/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0621-task-scheduler](https://github.com/VallabhiGoyal/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0740-delete-and-earn](https://github.com/VallabhiGoyal/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
@@ -82,6 +83,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/VallabhiGoyal/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VallabhiGoyal/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -158,6 +160,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0474-ones-and-zeroes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0605-can-place-flowers](https://github.com/VallabhiGoyal/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/VallabhiGoyal/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0621-task-scheduler](https://github.com/VallabhiGoyal/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VallabhiGoyal/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -279,6 +282,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0435-non-overlapping-intervals](https://github.com/VallabhiGoyal/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0611-valid-triangle-number](https://github.com/VallabhiGoyal/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0621-task-scheduler](https://github.com/VallabhiGoyal/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -300,6 +304,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0621-task-scheduler](https://github.com/VallabhiGoyal/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -334,6 +339,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/VallabhiGoyal/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/VallabhiGoyal/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0621-task-scheduler](https://github.com/VallabhiGoyal/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VallabhiGoyal/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
