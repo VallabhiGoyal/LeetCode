@@ -60,6 +60,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0171-excel-sheet-column-number](https://github.com/VallabhiGoyal/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0389-find-the-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0402-remove-k-digits](https://github.com/VallabhiGoyal/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/VallabhiGoyal/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/VallabhiGoyal/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -328,6 +329,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0134-gas-station](https://github.com/VallabhiGoyal/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/VallabhiGoyal/LeetCode/tree/main/0135-candy/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0402-remove-k-digits](https://github.com/VallabhiGoyal/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/VallabhiGoyal/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/VallabhiGoyal/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
@@ -472,5 +474,10 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/VallabhiGoyal/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/VallabhiGoyal/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
