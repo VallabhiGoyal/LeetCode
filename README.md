@@ -262,6 +262,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0279-perfect-squares](https://github.com/VallabhiGoyal/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/VallabhiGoyal/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/VallabhiGoyal/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0738-monotone-increasing-digits](https://github.com/VallabhiGoyal/LeetCode/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1025-divisor-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
@@ -343,6 +344,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0646-maximum-length-of-pair-chain](https://github.com/VallabhiGoyal/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VallabhiGoyal/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0738-monotone-increasing-digits](https://github.com/VallabhiGoyal/LeetCode/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [0860-lemonade-change](https://github.com/VallabhiGoyal/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/VallabhiGoyal/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VallabhiGoyal/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
