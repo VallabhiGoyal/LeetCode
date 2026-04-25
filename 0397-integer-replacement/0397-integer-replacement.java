@@ -1,22 +1,18 @@
 class Solution {
-    Map<Integer, Integer> map = new HashMap<>();
-
     public int integerReplacement(int n) {
-        return solve((long)n);
-    }
-
-    public int solve(long n){
         if(n == 1) return 0;
-
-        if(map.containsKey(n)) return map.get(n);
-
-        int ans;
-        if(n%2 == 0){
-            ans = 1 + solve(n/2);
-        }else{
-            ans = 1 + Math.min(solve(n-1), solve(n+1));
+        long num = n;
+        int count = 0;
+        while(num != 1){
+            if((num & 1)  == 0){
+                num = num>>1;
+            }else{
+               if(num == 3 || (num & 3) == 1) num-- ;
+               else num++; 
+            }
+            count++;
         }
 
-        return ans;
+        return count;
     }
 }
