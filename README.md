@@ -250,6 +250,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/VallabhiGoyal/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/VallabhiGoyal/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0397-integer-replacement](https://github.com/VallabhiGoyal/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0832-flipping-an-image](https://github.com/VallabhiGoyal/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -335,6 +336,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0134-gas-station](https://github.com/VallabhiGoyal/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/VallabhiGoyal/LeetCode/tree/main/0135-candy/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0397-integer-replacement](https://github.com/VallabhiGoyal/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0402-remove-k-digits](https://github.com/VallabhiGoyal/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/VallabhiGoyal/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/VallabhiGoyal/LeetCode/tree/main/0455-assign-cookies/) | Easy |
@@ -387,6 +389,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0337-house-robber-iii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0377-combination-sum-iv](https://github.com/VallabhiGoyal/LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0397-integer-replacement](https://github.com/VallabhiGoyal/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/VallabhiGoyal/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/VallabhiGoyal/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -415,6 +418,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/VallabhiGoyal/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/VallabhiGoyal/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0397-integer-replacement](https://github.com/VallabhiGoyal/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
