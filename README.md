@@ -178,6 +178,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1260-shift-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/VallabhiGoyal/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/VallabhiGoyal/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -208,12 +209,14 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0124-binary-tree-maximum-path-sum](https://github.com/VallabhiGoyal/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/VallabhiGoyal/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0733-flood-fill](https://github.com/VallabhiGoyal/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/VallabhiGoyal/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/VallabhiGoyal/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/VallabhiGoyal/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +233,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1260-shift-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VallabhiGoyal/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -492,4 +496,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/VallabhiGoyal/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
