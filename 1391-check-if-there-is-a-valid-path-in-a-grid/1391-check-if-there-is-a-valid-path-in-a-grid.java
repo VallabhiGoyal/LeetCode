@@ -1,4 +1,6 @@
 class Solution {
+    int[][] dirs = {{-1,0},{1,0},{0,-1},{0,1}};
+
     public boolean hasValidPath(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
@@ -15,64 +17,37 @@ class Solution {
         visited[i][j] = true;
 
         int curr = grid[i][j];
-        if(i-1 >= 0){
-            int next = grid[i-1][j];
 
+        for(int d = 0; d < 4; d++){
+            int ni = i + dirs[d][0];
+            int nj = j + dirs[d][1];
+
+            if(ni < 0 || nj < 0 || ni >= m || nj >= n) continue;
+            if(visited[ni][nj]) continue;
+
+            int next = grid[ni][nj];
             boolean valid = false;
 
-            if(curr == 2 || curr == 5 || curr == 6){
-                if(next == 2 || next == 3 || next == 4){
-                    valid = true;
+            if(d == 0){
+                if(curr == 2 || curr == 5 || curr == 6){
+                    if(next == 2 || next == 3 || next == 4) valid = true;
+                }
+            }else if(d == 1){
+                if(curr == 2 || curr == 3 || curr == 4){
+                    if(next == 2 || next == 5 || next == 6) valid = true;
+                }
+            }else if(d == 2){
+                if(curr == 1 || curr == 3 || curr == 5){
+                    if(next == 1 || next == 4 || next == 6) valid = true;
+                }
+            }else{
+                if(curr == 1 || curr == 4 || curr == 6){
+                    if(next == 1 || next == 3 || next == 5) valid = true;
                 }
             }
 
-            if(valid && !visited[i-1][j]){
-                if(helper(grid, visited, i-1, j, m, n)) return true;
-            }
-        }
-        if(i+1 < m){
-            int next = grid[i+1][j];
-
-            boolean valid = false;
-
-            if(curr == 2 || curr == 3 || curr == 4){
-                if(next == 2 || next == 5 || next == 6){
-                    valid = true;
-                }
-            }
-
-            if(valid && !visited[i+1][j]){
-                if(helper(grid, visited, i+1, j, m, n)) return true;
-            }
-        }
-        if(j-1 >= 0){
-            int next = grid[i][j-1];
-
-            boolean valid = false;
-
-            if(curr == 1 || curr == 3 || curr == 5){
-                if(next == 1 || next == 4 || next == 6){
-                    valid = true;
-                }
-            }
-
-            if(valid && !visited[i][j-1]){
-                if(helper(grid, visited, i, j-1, m, n)) return true;
-            }
-        }
-        if(j+1 < n){
-            int next = grid[i][j+1];
-
-            boolean valid = false;
-
-            if(curr == 1 || curr == 4 || curr == 6){
-                if(next == 1 || next == 3 || next == 5){
-                    valid = true;
-                }
-            }
-
-            if(valid && !visited[i][j+1]){
-                if(helper(grid, visited, i, j+1, m, n)) return true;
+            if(valid){
+                if(helper(grid, visited, ni, nj, m, n)) return true;
             }
         }
 
