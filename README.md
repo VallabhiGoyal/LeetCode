@@ -188,6 +188,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VallabhiGoyal/LeetCode/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/VallabhiGoyal/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VallabhiGoyal/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VallabhiGoyal/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/VallabhiGoyal/LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -241,6 +242,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VallabhiGoyal/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VallabhiGoyal/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VallabhiGoyal/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -275,6 +277,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0892-surface-area-of-3d-shapes](https://github.com/VallabhiGoyal/LeetCode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1025-divisor-game](https://github.com/VallabhiGoyal/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VallabhiGoyal/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/VallabhiGoyal/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Geometry
@@ -297,6 +300,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1030-matrix-cells-in-distance-order](https://github.com/VallabhiGoyal/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VallabhiGoyal/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/VallabhiGoyal/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
