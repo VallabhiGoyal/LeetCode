@@ -207,6 +207,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/VallabhiGoyal/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/VallabhiGoyal/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/VallabhiGoyal/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +258,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [3242-design-neighbor-sum-service](https://github.com/VallabhiGoyal/LeetCode/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/VallabhiGoyal/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/VallabhiGoyal/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3742-maximum-path-score-in-a-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +430,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2140-solving-questions-with-brainpower](https://github.com/VallabhiGoyal/LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/VallabhiGoyal/LeetCode/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VallabhiGoyal/LeetCode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+| [3742-maximum-path-score-in-a-grid](https://github.com/VallabhiGoyal/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
